@@ -1,4 +1,4 @@
-
+I have modified this file to see how conflicts occur
 # Lab
 
 Introduction to Git
